@@ -1,7 +1,7 @@
 -  Hello, I’m @prototypiccoder also known as Aze
 -  I’m interested in coding
 - I’m currently learning C++
-- If you'd like to talk, chat me in Discord "azexxorchid"
+- If you'd like to talk, chat me in Discord "azebtw"
 -  Pronouns: he/him
 -  Fun fact: Did you know that the first computer programmer was a woman?
  Ada Lovelace is considered the world's first computer programmer. In the 1800s, she worked on Charles Babbage's early mechanical computer,
